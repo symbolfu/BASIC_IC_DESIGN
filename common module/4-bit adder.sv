@@ -12,3 +12,4 @@ module adder_4 (
     assign {count, sum} = a + b + cin;
 
 endmodule
+
